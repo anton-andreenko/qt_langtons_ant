@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>FormLoadAntAIPreset</class>
+    <widget class="QDialog" name="FormLoadAntAIPreset">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>530</width>
+                <height>610</height>
+            </rect>
+        </property>
+        <property name="minimumSize">
+            <size>
+                <width>530</width>
+                <height>610</height>
+            </size>
+        </property>
+        <property name="maximumSize">
+            <size>
+                <width>530</width>
+                <height>610</height>
+            </size>
+        </property>
+        <property name="windowTitle">
+            <string>Load ant AI preset</string>
+        </property>
+        <widget class="QComboBox" name="ComboBox_AntAIPreset">
+            <property name="geometry">
+                <rect>
+                    <x>10</x>
+                    <y>10</y>
+                    <width>250</width>
+                    <height>24</height>
+                </rect>
+            </property>
+            <property name="minimumSize">
+                <size>
+                    <width>250</width>
+                    <height>24</height>
+                </size>
+            </property>
+            <property name="maximumSize">
+                <size>
+                    <width>350</width>
+                    <height>24</height>
+                </size>
+            </property>
+            <property name="maxVisibleItems">
+                <number>31</number>
+            </property>
+            <item>
+                <property name="text">
+                    <string> 01 -- RLRLRLLRLR -- 6.551</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 02 -- LLRLLLRR -- 14.937</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 03 -- LR -- 15.517</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 04 -- LLRRRLRLRLLR -- 39.451</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 05 -- RRLRLRR -- 59.225</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 06 -- RRLLLRLLLRRR -- 85.198</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 07 -- RLLLLRRRLLLR -- 135.314</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 08 -- RRLRLLRRRRRR -- 186.117</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 09 -- LRRRRLLLRRR -- 189.206</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 10 -- LLLRLLRRLLLL -- 210.692</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 11 -- RRLLLRRRRRLR -- 239.195</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 12 -- RLRRRRLLLRR -- 240.287</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 13 -- LLRL -- 263.220</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 14 -- RRLRLLRLRR -- 267.017</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 15 -- LRRRRLLLRR -- 280.080</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 16 -- LRRRRRLLR -- 314.809</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 17 -- RRLRR -- 363.531</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 18 -- LLLRLLRRRLL 401.491</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 19 -- LLLLLRRRRRL -- 613.458</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 20 -- LLRRLRRRRRRR -- 794.388</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 21 -- LRLRLLLLLLLR -- 879.228</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 22 -- RLR -- 918.725</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 23 -- RRLLLRRRLRRR -- 1.171.329</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 24 -- LRLLRRRRR -- 1.463.290</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 25 -- RLLR -- 1.548.729</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 26 -- LLRLLLRRRRR -- 1.656.123</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 27 -- RRLLLRLLLR -- 1.665.202</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 28 -- LLRRRLRRRRR -- 1.851.430</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 29 -- RRRRLRRRLLRR -- 2.682.109</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 30 -- LLRRLLLRLRRR -- 3.356.736</string>
+                </property>
+            </item>
+            <item>
+                <property name="text">
+                    <string> 31 -- LLRR -- 18.340.311</string>
+                </property>
+            </item>
+        </widget>
+        <widget class="QGraphicsView" name="GraphicsView_AntAIPreset">
+            <property name="geometry">
+                <rect>
+                    <x>10</x>
+                    <y>50</y>
+                    <width>510</width>
+                    <height>510</height>
+                </rect>
+            </property>
+            <property name="minimumSize">
+                <size>
+                    <width>510</width>
+                    <height>510</height>
+                </size>
+            </property>
+            <property name="maximumSize">
+                <size>
+                    <width>510</width>
+                    <height>510</height>
+                </size>
+            </property>
+            <property name="frameShape">
+                <enum>QFrame::NoFrame</enum>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="PushButton_Ok">
+            <property name="geometry">
+                <rect>
+                    <x>370</x>
+                    <y>570</y>
+                    <width>70</width>
+                    <height>30</height>
+                </rect>
+            </property>
+            <property name="minimumSize">
+                <size>
+                    <width>70</width>
+                    <height>30</height>
+                </size>
+            </property>
+            <property name="maximumSize">
+                <size>
+                    <width>70</width>
+                    <height>30</height>
+                </size>
+            </property>
+            <property name="text">
+                <string>OK</string>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="PushButton_Cancel">
+            <property name="geometry">
+                <rect>
+                    <x>450</x>
+                    <y>570</y>
+                    <width>70</width>
+                    <height>30</height>
+                </rect>
+            </property>
+            <property name="minimumSize">
+                <size>
+                    <width>70</width>
+                    <height>30</height>
+                </size>
+            </property>
+            <property name="maximumSize">
+                <size>
+                    <width>70</width>
+                    <height>30</height>
+                </size>
+            </property>
+            <property name="text">
+                <string>Cancel</string>
+            </property>
+        </widget>
+    </widget>
+    <tabstops>
+        <tabstop>ComboBox_AntAIPreset</tabstop>
+        <tabstop>GraphicsView_AntAIPreset</tabstop>
+        <tabstop>PushButton_Ok</tabstop>
+        <tabstop>PushButton_Cancel</tabstop>
+    </tabstops>
+    <resources/>
+    <connections/>
+</ui>

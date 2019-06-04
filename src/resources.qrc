@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/qt_icon.png</file>
+        <file>resources/icons/simulation_forward.png</file>
+        <file>resources/icons/simulation_next.png</file>
+        <file>resources/icons/simulation_pause.png</file>
+        <file>resources/icons/simulation_play.png</file>
+        <file>resources/icons/simulation_stop.png</file>
+        <file>resources/icons/turn_left.png</file>
+        <file>resources/icons/turn_none.png</file>
+        <file>resources/icons/turn_right.png</file>
+        <file>resources/pictures/ant_ai_preset_01.png</file>
+        <file>resources/pictures/ant_ai_preset_02.png</file>
+        <file>resources/pictures/ant_ai_preset_03.png</file>
+        <file>resources/pictures/ant_ai_preset_04.png</file>
+        <file>resources/pictures/ant_ai_preset_05.png</file>
+        <file>resources/pictures/ant_ai_preset_06.png</file>
+        <file>resources/pictures/ant_ai_preset_07.png</file>
+        <file>resources/pictures/ant_ai_preset_08.png</file>
+        <file>resources/pictures/ant_ai_preset_09.png</file>
+        <file>resources/pictures/ant_ai_preset_10.png</file>
+        <file>resources/pictures/ant_ai_preset_11.png</file>
+        <file>resources/pictures/ant_ai_preset_12.png</file>
+        <file>resources/pictures/ant_ai_preset_13.png</file>
+        <file>resources/pictures/ant_ai_preset_14.png</file>
+        <file>resources/pictures/ant_ai_preset_15.png</file>
+        <file>resources/pictures/ant_ai_preset_16.png</file>
+        <file>resources/pictures/ant_ai_preset_17.png</file>
+        <file>resources/pictures/ant_ai_preset_18.png</file>
+        <file>resources/pictures/ant_ai_preset_19.png</file>
+        <file>resources/pictures/ant_ai_preset_20.png</file>
+        <file>resources/pictures/ant_ai_preset_21.png</file>
+        <file>resources/pictures/ant_ai_preset_22.png</file>
+        <file>resources/pictures/ant_ai_preset_23.png</file>
+        <file>resources/pictures/ant_ai_preset_24.png</file>
+        <file>resources/pictures/ant_ai_preset_25.png</file>
+        <file>resources/pictures/ant_ai_preset_26.png</file>
+        <file>resources/pictures/ant_ai_preset_27.png</file>
+        <file>resources/pictures/ant_ai_preset_28.png</file>
+        <file>resources/pictures/ant_ai_preset_29.png</file>
+        <file>resources/pictures/ant_ai_preset_30.png</file>
+        <file>resources/pictures/ant_ai_preset_31.png</file>
+    </qresource>
+</RCC>
